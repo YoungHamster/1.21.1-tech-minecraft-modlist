@@ -17,8 +17,10 @@ IronChests https://www.curseforge.com/minecraft/mc-mods/iron-chests
 
 Productive Bees https://www.curseforge.com/minecraft/mc-mods/productivebees
 
-ZeroCore(support for Extreme Reactors) https://legacy.curseforge.com/minecraft/mc-mods/zerocore
+ZeroCore(required for Extreme Reactors) https://legacy.curseforge.com/minecraft/mc-mods/zerocore
 
 Extreme Reactors https://www.curseforge.com/minecraft/mc-mods/extreme-reactors
+
+HammerLib(required for SolarFluxReborn) https://www.curseforge.com/minecraft/mc-mods/hammer-lib
 
 Solar Flux Reborn https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn
