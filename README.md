@@ -24,3 +24,5 @@ Extreme Reactors https://www.curseforge.com/minecraft/mc-mods/extreme-reactors
 HammerLib(required for SolarFluxReborn) https://www.curseforge.com/minecraft/mc-mods/hammer-lib
 
 Solar Flux Reborn https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn
+
+Inventory Tweaks https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-refoxed
