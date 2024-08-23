@@ -7,6 +7,24 @@ https://gist.github.com/CommandLeo/926dd2bd6ff9b9621b33076ff5f09c3b from this li
 
 NeoForge https://neoforged.net/
 
+Placebo (BETA, required for Fast Workbench) https://www.curseforge.com/minecraft/mc-mods/placebo
+
+Fast Workbench(BETA optimization) https://www.curseforge.com/minecraft/mc-mods/fastworkbench
+
+Cupboard (required for Connectivity, ChunkSending, BetterChunkLoading, FastAsyncWorldSave) https://www.curseforge.com/minecraft/mc-mods/cupboard
+
+Connectivity (optimization) https://www.curseforge.com/minecraft/mc-mods/connectivity
+
+Chunk Sending (optimization) https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric
+
+Better Chunk Loading (optimization) https://www.curseforge.com/minecraft/mc-mods/better-chunk-loading-forge-fabric
+
+Fast Async World Save (optimization) https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric
+
+Smooth Chunk Save (optimization) https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save
+
+Ksyxis (optimization) https://www.curseforge.com/minecraft/mc-mods/ksyxis
+
 Greg Tech community edition modern (BETA) https://www.curseforge.com/minecraft/mc-mods/gregtechceu-modern
 
 Applied Energistics 2 (BETA) https://github.com/AppliedEnergistics/Applied-Energistics-2
