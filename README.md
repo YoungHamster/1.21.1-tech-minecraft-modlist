@@ -14,3 +14,11 @@ Just Enough Items (BETA) https://www.curseforge.com/minecraft/mc-mods/jei
 Mekanism(ALPHA) https://www.curseforge.com/minecraft/mc-mods/mekanism
 
 IronChests https://www.curseforge.com/minecraft/mc-mods/iron-chests
+
+Productive Bees https://www.curseforge.com/minecraft/mc-mods/productivebees
+
+ZeroCore(support for Extreme Reactors) https://legacy.curseforge.com/minecraft/mc-mods/zerocore
+
+Extreme Reactors https://www.curseforge.com/minecraft/mc-mods/extreme-reactors
+
+Solar Flux Reborn https://www.curseforge.com/minecraft/mc-mods/solar-flux-reborn
